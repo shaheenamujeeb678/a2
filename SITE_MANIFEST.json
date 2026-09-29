@@ -1,0 +1,207 @@
+{
+  "domain": "boysenberryup",
+  "niche": "Artisanal Boysenberry Preserves & Botanical Fruit Gastronomy",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "boysenberryup_asset_1.jpg",
+      "size_kb": 169.48,
+      "md5": "e38cfb68001ad1fa7c7fbfce810ba860",
+      "description": "boysenberries",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "boysenberryup_asset_2.jpg",
+      "size_kb": 145.13,
+      "md5": "4418ad5a67cec1134909d3a742124410",
+      "description": "boysenberry",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "boysenberryup_asset_3.jpg",
+      "size_kb": 155.07,
+      "md5": "53ae2167ce9ee13c273bb6ee56ed8ea6",
+      "description": "ripening mulberries",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "boysenberryup_asset_4.jpg",
+      "size_kb": 64.38,
+      "md5": "c9a087edcbed95e14a7adcfeb6b92297",
+      "description": "97probegt",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "boysenberryup_asset_5.jpg",
+      "size_kb": 328.21,
+      "md5": "46ad7092dc0e4d5b8c7e55f12f5ecb69",
+      "description": "benton county nursery co 1945 19",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "boysenberryup_asset_6.jpg",
+      "size_kb": 82.95,
+      "md5": "e2564aa3f7f3f601943dbd2c3b012b09",
+      "description": "benton county nursery co 1959 20",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "boysenberryup_asset_7.jpg",
+      "size_kb": 281.48,
+      "md5": "1fa47f4b1438038df8ec5e93e93cd80c",
+      "description": "boysenberry losangeles2017",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "boysenberryup_asset_8.jpg",
+      "size_kb": 103.44,
+      "md5": "40417c9bfedf4104a186015b7b589db4",
+      "description": "boysenberry pie from julian bakery",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "boysenberryup_asset_9.jpg",
+      "size_kb": 206.25,
+      "md5": "f22bddba9250d2e626acd168dadd7d2a",
+      "description": "boysenberry vegan brownie 38062800",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "boysenberryup_asset_10.jpg",
+      "size_kb": 186.44,
+      "md5": "2852c1a1f9534aaa9f82d7294a5ff3a6",
+      "description": "boysenberry vegan brownie 38062800",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "boysenberryup_asset_11.jpg",
+      "size_kb": 142.33,
+      "md5": "fc83536e09ec3c1c52ed0732337b8753",
+      "description": "boysenberry flower",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "boysenberryup_asset_12.jpg",
+      "size_kb": 59.39,
+      "md5": "e9badb60754468e59ed47ab547c27603",
+      "description": "boysenberry flower 2",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "boysenberryup_asset_13.jpg",
+      "size_kb": 74.76,
+      "md5": "603547181bd4ec0106dd0ca61c07cf48",
+      "description": "boysenberry pie 01",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "boysenberryup_asset_14.jpg",
+      "size_kb": 68.74,
+      "md5": "320c98bb8366545e48cda8f90c18cc67",
+      "description": "Artisanal handcrafted Artisanal Boysenberry Preserves & Botanical Frui",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "boysenberryup_asset_15.jpg",
+      "size_kb": 118.65,
+      "md5": "08aeec05a6140589a3b99a1cc00a693e",
+      "description": "knott s bear y tales return to the",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "boysenberryup_asset_16.jpg",
+      "size_kb": 156.27,
+      "md5": "11d1b232c58323d3c8752105a6458a5c",
+      "description": "knott s bear y tales return to the",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "boysenberryup_asset_17.jpg",
+      "size_kb": 124.3,
+      "md5": "a2a340e8f73dae310db53fc84a0b8498",
+      "description": "knott s bear y tales return to the",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "boysenberryup_asset_18.jpg",
+      "size_kb": 144.56,
+      "md5": "dead85e326d18717af1592edbce58b9f",
+      "description": "knott s bear y tales return to the",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "boysenberryup_asset_20.jpg",
+      "size_kb": 177.2,
+      "md5": "cb42678b6a46dff44a431f53319a9e52",
+      "description": "knott s bear y tales return to the",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "boysenberryup_asset_21.jpg",
+      "size_kb": 149.62,
+      "md5": "e04bffbf31d55c3c91ff2d2036c3b73c",
+      "description": "knott s bear y tales return to the",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://boysenberryup.com/sitemap.xml",
+    "robots": "https://boysenberryup.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
